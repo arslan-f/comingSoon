@@ -55,7 +55,7 @@ span{
 .form-ctr {
     display: flex;
     flex-direction: column;
-    padding: 0 5%;
+    padding: 0 10px;
 }
 
 .form-ctr input, .primary-btn {
@@ -80,7 +80,7 @@ small{
     background-color: hsl(223, 87%, 63%);
     color: white;
     box-shadow: 5px 5px 10px -2px rgba(194, 211, 255, 1);
-
+    height: 57px;
 }
 
 .image-ctr {
